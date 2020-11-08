@@ -1,5 +1,3 @@
-# ostwald_sqrpbc
+# -----ostwald_sqrpbc_Guan-----
 
-# PFHub Benchmark problem 2a input file & simulation result
-
-# running by MOOSE framework
+# Input file and simulation result of Ostwald ripening simulation in square mesh w periodic boundaries condition (PFHub Benchmark problem 2a). The simulation run by MOOSE framework
